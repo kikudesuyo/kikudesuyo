@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="center">
+<div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kikudesuyo&theme=github" height="180"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kikudesuyo&theme=github" height="180"/>
 </div>
